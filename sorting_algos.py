@@ -23,6 +23,7 @@ def insertion_sort():
     return list
 
 #selection sort
+
 def selection_sort():
     list = [12,56,28,46,89,51,18]
 
